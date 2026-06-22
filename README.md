@@ -13,7 +13,7 @@ Teams are ranked by total Profit and Loss (PnL) at the end of each trading sessi
 
 ## 🚀 Features
 
-This repository contains `autotrader_final.py`, an autonomous trading client equipped with a robust rate limiter, automated risk management, and a comprehensive trade recording system. 
+This repository contains `Auto_Trader_Optiver.py`, an autonomous trading client equipped with a robust rate limiter, automated risk management, and a comprehensive trade recording system. 
 
 ### Core Trading Strategies
 The bot utilizes a multi-strategy approach, easily toggled via the `ENABLED` configuration dictionary:
@@ -33,7 +33,7 @@ The bot utilizes a multi-strategy approach, easily toggled via the `ENABLED` con
 
 ## 🛠️ Configuration
 
-Key parameters can be tuned directly at the top of `autotrader_final.py`:
+Key parameters can be tuned directly at the top of `Auto_Trader_Optiver.py`:
 
 ```python
 # Strategy Toggles
